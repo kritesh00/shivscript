@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, AWS, Machine Learning, etc.
 - 🌱 I’m currently learning Tensorflow 2.0
 - 💞️ I’m looking to collaborate on my research paper
-- 📫 How to reach me through mail
+- 📫 Reach me through mail
 
 <!---
 shivscript/shivscript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
